@@ -157,7 +157,7 @@ function App() {
                 content: [
                   'Nossa principal atividade é a busca de oportunidades de negócios, nos âmbitos nacional e internacional, por meio da prospecção de mercados, produtos e serviços.',
                   'Nosso grande objetivo é, com menor investimento possível e máxima agilidade, avaliar a viabilidade, planejar e concretizar negócios lucrativos para nossos clientes e parceiros.',
-                  'Nossos atuais segmentos de atuação: Material de construção (isolamento termoacustico e impermeabilizantes), Energia Fotovoltaica, Outras miscelâneas, Alimento e Textil.'
+                  'Nossos atuais segmentos de atuação: Material de construção (isolamento termoacustico e impermeabilizantes), Energia Fotovoltaica, Multipropriedade. Segmentos diversos, por ocasião.'
                 ]
               })}
             >
