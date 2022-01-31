@@ -113,6 +113,26 @@ main{
             width: 100%;   
         }
     }
+
+    .section-home{
+        height: 110vh;
+    }
+
+    .card-home{
+        position: absolute;
+        bottom: 0;
+        width: 100%;
+    }
+    }
+
+    @media(max-width: 420px){
+    
+        .text-home{
+        h1{
+            width: 100%;
+            font-size: 1.4rem;
+        }
+    }
     }
 
     @media(max-width: 380px){
@@ -121,7 +141,6 @@ main{
 
         h1{
             width: 100%;
-            font-size: 1.8rem;
         }
 
         span{
@@ -130,6 +149,18 @@ main{
             width: 100%;
             
         }
+    }
+    }
+
+    @media(max-width: 343px){
+    
+        .text-home{
+
+        h1{
+            width: 100%;
+            font-size: 1.3rem;
+        }
+
     }
     }
     
@@ -236,6 +267,7 @@ main{
         }
 
         @media(max-width: 500px){
+
             
             div{
                 top: 20%;
@@ -444,7 +476,7 @@ main{
         }
 
         @media(max-width: 377PX){
-            margin-top: 13rem;
+            margin-top: 10rem;
         }
 
         @media(max-width: 366px){
@@ -454,11 +486,11 @@ main{
         }
  
         @media(max-width: 363px){
-            margin-top: 16rem;
+            margin-top: 12rem;
         }
 
-        @media(max-width: 315px){
-            margin-top: 18rem;
+        @media(max-width: 330px){
+            margin-top: 16rem;
             
             .container-card{
                 margin-top: 6.7% !important;
