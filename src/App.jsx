@@ -171,7 +171,7 @@ function App() {
         <section className="section-quem-somos">
           <CardWhite  className="cardTransition">
             <h2>QUEM SOMOS?</h2>
-            <span>Somos uma empresa de comércio exterior. Atuamos na gestão operacional e comercial no Brasil e exterior, pautando nossas atividades na honestidade, transparência, profissionalismo, ágil comunicação e soluções criativas. </span>
+            <span>Somos uma empresa que acredita na democratização do comércio exterior, na simplificação dos processos com responsabilidade, excelência logística e tributária com objetivo de otimizar resultados e garantir a satisfação de nossos clientes</span>
           </CardWhite>
           <img src={img2} alt="Comércio exterior"/>
         </section>
