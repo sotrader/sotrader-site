@@ -184,7 +184,7 @@ function App() {
           <div className="container-card">
             <CardWhite>
               <h2>MISSÃO</h2>
-              <span>Auxiliar nossos clientes a administrar seus negócios, buscando otimizar resutados com segurança e confiabilidade.</span>
+              <span>Auxiliar nossos clientes a administrar seus negócios, buscando otimizar resultados com segurança e confiabilidade.</span>
             </CardWhite>
             <CardWhite>
               <h2>VALORES</h2>
